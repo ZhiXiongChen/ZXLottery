@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>开奖推送</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>targetVC</key>
+				<string>ZXSettingViewController</string>
+				<key>plistName</key>
+				<string>SettingPushPrize</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>比分直播推送</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>targetVC</key>
+				<string>ZXLiveViewController</string>
+				<key>plistName</key>
+				<string>SettingScoreLive</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>中奖动画</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>targetVC</key>
+				<string>ZXSettingViewController</string>
+				<key>plistName</key>
+				<string>SettingWinAnimation</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>购彩提醒</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>targetVC</key>
+				<string>ZXSettingViewController</string>
+				<key>plistName</key>
+				<string>SettingShoppingRemind</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
